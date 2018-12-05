@@ -3,4 +3,4 @@ git is useful.
 a new line.
 have created a new branch dev.
 create a new line.
-this is master branch.
+This is master branch.
